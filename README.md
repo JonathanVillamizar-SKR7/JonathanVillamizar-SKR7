@@ -1,4 +1,4 @@
-# ¡Hola! Soy Jonathan Villamizar 👋
+# ¡Hola! Soy Jonathan Villamizar ✌🏼
 
 Full Stack Developer junior, especializado en **desarrollo Android (Kotlin)** y **backend (Java / Spring Boot)**. Graduado de CFGS de Desarrollo de Aplicaciones Multiplataforma (DAM) en ILERNA, Barcelona.
 
