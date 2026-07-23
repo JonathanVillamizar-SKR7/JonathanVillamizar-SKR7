@@ -2,8 +2,7 @@
 
 Full Stack Developer junior, especializado en **desarrollo Android (Kotlin)** y **backend (Java / Spring Boot)**. Graduado de CFGS de Desarrollo de Aplicaciones Multiplataforma (DAM) en ILERNA, Barcelona.
 
-Me gusta llevar mis proyectos de principio a fin: desde el diseño de la base de datos hasta la interfaz que usa el usuario final. Actualmente en búsqueda de mi primera posición como desarrollador Android o Backend.
-
+Me gusta desarrollar soluciones completas, desde la lógica de negocio hasta la experiencia de usuario final. Actualmente busco mi primera oportunidad profesional en desarrollo backend o Android, con interés en especializarme y crecer dentro de un entorno de desarrollo software.
 ---
 
 ### 🧩 Stack
